@@ -1,0 +1,31 @@
+.sidebar-b{
+    position: fixed;
+    z-index: 200;
+    bottom: 0px;
+    left: 0px;
+    top:49px;
+   width: 72px;
+   background-color: white;
+  margin-top: 0;
+}
+ .slidebar{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 0;
+    
+    
+ }
+  .slidebar:hover{
+    background-color: rgb(235, 235, 235);
+ }
+  .slidebar img{
+    height:24px;
+
+ }
+  .slidebar div{
+    font-family: roboto, arial;
+    font-size: 10px;
+ }
